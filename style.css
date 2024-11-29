@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+
+.cap {
+    width: 450px;
+    height: 600px;
+    border-radius: 100% 100% / 70% 50% 100% 100%;
+    background: #ffba6f;
+    margin: auto;
+
+}
+
+.cabell {
+    width: 450px;
+    height: 210px;
+    border-radius: 150px 150px 200px 200px / 100px 100px 100px 100px;
+    background: #5f482f;
+}
+
+.celles1 {
+    width: 130px;
+    height: 80px;
+    border-radius: 25% 0 0 0;
+    box-shadow: 0 -30px 0 -10px;
+    top: 55px;
+    left: 50px;
+    position: absolute;
+}
+
+.celles2 {
+    width: 130px;
+    height: 80px;
+    border-radius: 0 25% 0 0;
+    box-shadow: 0 -30px 0 -10px;
+    top: 55px;
+    right: 50px;
+    position: absolute;
+}
+
+.vista {
+    width: 450px; 
+    height: 100px;
+    background: ;
+    text-align: center;
+    position: absolute;
+    top: 70px;
+}
+
+.ull1 {
+    transform: scale();
+    width: 95px;
+    margin: 0 50px;
+    height: 55px;
+    background: white;
+    border-radius: 50%;
+    display: inline-block;   
+  
+}
+
+.ull2 {
+    transform: scale();
+    width: 95px;
+    margin: 0 50px;
+    height: 55px;
+    background: white;
+    border-radius: 50%;
+    display: inline-block;
+ 
+}
+
+.iris {
+
+}
+
+.pupila1 { 
+    width: 40px;
+    height: 40px;
+    background: #5f482f;
+    border-radius: 50%;
+    background-image: 
+        radial-gradient(circle at center, black 30%, #0000 0),
+        radial-gradient(circle at 36% 31%, #fff 4%, #0000 0);
+    top: 8px;
+    left: 26px;
+
+        
+
+}
+
+.pupila2 {
+    width: 40px;
+    height: 40px;
+    background: #5f482f;
+    border-radius: 50%;
+    background-image: 
+        radial-gradient(circle at center, black 30%, #0000 0),
+        radial-gradient(circle at 36% 31%, #fff 4%, #0000 0);
+    top: 8px;
+    left: 26px;
+}
+
+
+.nas {
+    width: 70px;
+    height: 160px;
+    background:;
+    border-radius: 0 0 50px 50px;
+    border: 10px solid #0002;
+    border-right: 10px solid #0002;
+    border-left-color: transparent;
+    border-top: 0;
+    left: 205px;
+    top: 65px;
+    transform: translate(-50%, 0);
+    position: absolute;
+
+}
+
+.boca {
+    width: 130px;
+    height: 60px;
+    background: #c55656;
+    border-radius: 60% / 55%; 
+    overflow: hidden;
+    left: 160px;
+    top: 250px;
+}
+
+.coll:last-child {
+    width: px;
+    height: px; 
+    background: #ffba6f; 
+    border-radius: 20px; 
+    top: 250px;
+    left: 90px;
+    
+   
+}
+.careta {
+
+}
